@@ -4,4 +4,4 @@
 
 
 my python program.
-Autho - hasim bukhari 
+Author - hasim bukhari 

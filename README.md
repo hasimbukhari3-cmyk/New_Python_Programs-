@@ -1,2 +1,2 @@
 # New_Python_Programs-
-my firsyt python program.
+my python program.
